@@ -1,1 +1,1 @@
-python3 main.py > myoutput.txt
+python3 main.py > output.txt
